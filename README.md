@@ -1,4 +1,6 @@
-## Hey, i'm Justin Monné
+<h1 align="center">Hey, i'm Justin Monné</h1>
+<h3 align="center">A Dutch Software Engineering student, eager to learn new things in the world of coding</h3>
+
 
 
 
